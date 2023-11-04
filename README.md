@@ -11,6 +11,6 @@ This is the repository for our project "Tugas Besar Metode Formal".
   - NIM: 1302223015
 - ${\textsf{\color{green}Muhammad Rafi Nadhif}}$
   - NIM: 1302220142
-- Haikal Alfaro
+- ${\textsf{\color{lightblue}Muhammad Rafi Nadhif}}$
   - NIM: 1302220098
 
