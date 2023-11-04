@@ -9,9 +9,8 @@ This is the repository for our project "Tugas Besar Metode Formal".
   - NIM: 1302223040
 - ${\textsf{\color{blue}M Galang Pradwita}}$
   - NIM: 1302223015
-- Muhammad Rafi Nadhif
+- ${\textsf{\color{green}Muhammad Rafi Nadhif}}$
   - NIM: 1302220142
 - Haikal Alfaro
   - NIM: 1302220098
 
-$${\color{blue}Blue}$$
