@@ -5,7 +5,7 @@
 This is the repository for our project "Tugas Besar Metode Formal".
 
 ## Team Members
-- ${\color{red}Naufal Ajhar El Hafizh}$$
+- ${\color{red}Naufal Ajhar El Hafizh}$
   - NIM: 1302223040
 - M Galang Pradwita
   - NIM: 1302223015
