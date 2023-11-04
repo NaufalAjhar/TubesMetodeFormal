@@ -11,4 +11,3 @@ This is the repository for our project "Tugas Besar Metode Formal".
   - NIM: 1302220142
 - ${\textsf{\color{lightblue}Haikal Alfaro}}$
   - NIM: 1302220098
-
