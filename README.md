@@ -1,4 +1,4 @@
-# Tugas Besar Metode Formal
+# ✨ Tugas Besar Metode Formal ✨
 
 This is the repository for our project "Tugas Besar Metode Formal".
 
