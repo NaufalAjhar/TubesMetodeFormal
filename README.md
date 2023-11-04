@@ -5,11 +5,11 @@
 This is the repository for our project "Tugas Besar Metode Formal".
 
 ## Team Members
-- Naufal Ajhar El Hafizh
+- <span style="color:pink">Naufal Ajhar El Hafizh</span>
   - NIM: 1302223040
-- M Galang Pradwita
+- <span style="color:blue">M Galang Pradwita</span>
   - NIM: 1302223015
-- Muhammad Rafi Nadhif
+- <span style="color:red">Muhammad Rafi Nadhif</span>
   - NIM: 1302220142
-- Haikal Alfaro
+- <span style="color:purple">Haikal Alfaro</span>
   - NIM: 1302220098
