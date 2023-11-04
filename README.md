@@ -1,7 +1,5 @@
 # Tugas Besar Metode Formal
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
 This is the repository for our project "Tugas Besar Metode Formal".
 
 ## Team Members
